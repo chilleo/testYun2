@@ -4,10 +4,7 @@
 
 void doStuff(int *oneD)
 {
-    oneD[0] = 7;
-    oneD[1] = 9;
-    return;
-}
+xdsxfcxc
 
 
 
